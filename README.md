@@ -3,7 +3,7 @@
   <img src="./todoListLocalStorage.gif" width="500" >
 </div>
 <div align="left">
-<h2>Descrição<h2/>
+<h2>Descrição</h2>
  <br>Este projeto é uma lista de tarefas (Todo List) desenvolvida em HTML, CSS e JavaScript. Permite adicionar, marcar como concluída e excluir tarefas.
 
 <h2>Tecnologias</h2>
